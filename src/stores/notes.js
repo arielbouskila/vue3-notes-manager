@@ -5,7 +5,7 @@ export const useStoreNotes = defineStore('storeNotes',()=>{
     //the state
     const notes = ref([{
         id:'0',
-        content:'hello stranger'
+        content:'hello LinearB'
     }]);
 
     //the actions
